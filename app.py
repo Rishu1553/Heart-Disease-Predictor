@@ -77,4 +77,4 @@ if submitted:
 
 # ====== Footer ======
 st.markdown("---")
-st.caption("Made with ❤️ by [Your Name] — Powered by Streamlit")
+st.caption("Made by Rishabh Joshi")
